@@ -1,0 +1,2 @@
+# FourMajorComponents
+主要是安卓四大组件的代码，其中service和BroadcastReceive主要显示代码的实现，并没有什么功能。contentProvider做了一个实例，通过获取手机的通讯录、短信、本地音乐并在listview中显示出来
