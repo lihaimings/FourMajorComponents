@@ -13,3 +13,5 @@
 - 音乐： 权限:READ_EXTERNAL_STORAGE
 1. MediaStore.Audio.Media.EXTERNAL_CONTENT_URI
 2. 表中的音乐名:Media.DISPLAY_NAME
+
+四大组件的博客说明:[https://www.jianshu.com/p/7e15694ae51f](https://www.jianshu.com/p/7e15694ae51f)
